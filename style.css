@@ -1,9 +1,10 @@
 .nav-text{
   text-align: center;
+  padding: 2px;
   float: none !important;
 }
 .foto-bruno{
-  height: 400px;
+  height: 500px;;
 }
 
 .box-shadow{
@@ -19,6 +20,9 @@
 }
 
 .altura-card{
-  background-size: cover;
-  height: 170px;
+  height: 250px;
+}
+
+.limiteBotao{
+  max-width: 140px;
 }
